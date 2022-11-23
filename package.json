@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/dianatruuse.github.io/lesson_13_easy#readme",
   "dependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.10",
     "pkg": "^4.4.4"
   },
   "devDependencies": {
